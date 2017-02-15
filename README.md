@@ -55,6 +55,8 @@ The code will look like the following:
 
 
 
+## Note:
+Chapter 01 and Chapter 07 does not contain code files.
 
 ## Related Microservices Products
 * [Large Scale Machine Learning with Spark](https://www.packtpub.com/big-data-and-business-intelligence/large-scale-machine-learning-spark?utm_source=github&utm_medium=repository&utm_campaign=9781785888748)
