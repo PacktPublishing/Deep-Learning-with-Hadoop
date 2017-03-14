@@ -58,12 +58,12 @@ The code will look like the following:
 ## Note:
 Chapter 01 and Chapter 07 does not contain code files.
 
-## Related Microservices Products
-* [Large Scale Machine Learning with Spark](https://www.packtpub.com/big-data-and-business-intelligence/large-scale-machine-learning-spark?utm_source=github&utm_medium=repository&utm_campaign=9781785888748)
+## Related Hadoop Products
+* [Hadoop: Data Processing and Modelling](https://www.packtpub.com/big-data-and-business-intelligence/hadoop-data-processing-and-modelling?utm_source=github&utm_medium=repository&utm_content=9781787125162)
 
-* [Practical Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/practical-machine-learning?utm_source=github&utm_medium=repository&utm_campaign=9781784399689)
+* [Hadoop Blueprints](https://www.packtpub.com/big-data-and-business-intelligence/hadoop-blueprints?utm_source=github&utm_medium=repository&utm_content=9781783980307)
 
-* [Advanced Machine Learning with Python](https://www.packtpub.com/big-data-and-business-intelligence/advanced-machine-learning-python?utm_source=github&utm_medium=repository&utm_campaign=9781784398637)
+* [Elasticsearch for Hadoop](https://www.packtpub.com/big-data-and-business-intelligence/elasticsearch-hadoop?utm_source=github&utm_medium=repository&utm_content=9781785288999)
 
 
 ### Suggestions and Feedback
